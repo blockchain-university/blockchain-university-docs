@@ -1,2 +1,2 @@
-# blockchain-club
-区块链技术俱乐部，推广区块链相关知识
+# blockchain-university
+区块链技术大学，推广、研究、培训区块链技术的相关知识
